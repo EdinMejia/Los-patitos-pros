@@ -3,6 +3,7 @@ public class HolaMundo {
         // Imprime un saludo
         System.out.println("Hola, mundo en 3d!");
         System.out.println("Hola, mundo en 4d!");
+        System.out.println("Hola, mundo en 5d!");
 
         // Declara dos números
         int numero1 = 6;
